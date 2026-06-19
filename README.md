@@ -22,7 +22,7 @@ Este tablero ofrece una visión global y macro del negocio, permitiendo identifi
   * Gráfico de doble eje para la relación de precios por juego.
 * **Filtros Activos:** Tienda Oficial.
 
-![Dashboard 1 - Resumen de Ventas](dashboard1.jpg)
+Dashboard1.png
 
 ---
 
