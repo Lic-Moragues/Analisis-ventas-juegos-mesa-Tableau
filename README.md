@@ -38,7 +38,7 @@ Este tablero profundiza en la eficiencia logística y en cómo las condiciones d
   * Gráfico de burbujas (Packed Bubbles) para segmentación de ventas según niveles de Reputación (Gold, Líder, Platinum).
 * **Filtros Activos:** Nombres de Juegos de Mesa, Ubicación (Regiones).
 
-![Dashboard 2 - Análisis Logístico](dashboard2.jpg)
+[![Dashboard 2 - Análisis Logístico](dashboard2.jpg)](https://github.com/Lic-Moragues/Analisis-ventas-juegos-mesa-Tableau/blob/main/Dashboard2.png)
 
 ---
 
